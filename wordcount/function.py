@@ -30,7 +30,3 @@ def about(request):
     return render(request, 'about.html')
 
 
-
-
-# def count(request):
-#     return render(request, 'count.html')
